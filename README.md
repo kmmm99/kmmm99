@@ -1,4 +1,5 @@
-## Hi there 👋
+## プロフィール
+- 職務経歴書[職務経歴書](https://github.com/kmmm99/resume/wiki/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8)
 
 <!--
 **kmmm99/kmmm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
