@@ -1,6 +1,6 @@
 ## プロフィール
 - 職務経歴書は[こちら](https://github.com/kmmm99/resume/wiki/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8)
-- 職務経歴書(映像)は[こちら](https://github.com/kmmm99/resume/wiki/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8(%E6%98%A0%E5%83%8F))
+- 職務経歴書(映像・その他)は[こちら](https://github.com/kmmm99/resume/wiki/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8(%E6%98%A0%E5%83%8F%E3%83%BB%E3%81%9D%E3%81%AE%E4%BB%96))
 <!--
 **kmmm99/kmmm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
